@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Z0FF1
-- 👀 I’m interested in WEB-DEV
-- 🌱 I’m currently learning HTML-CSS-JS
-- 💞️ I’m looking to collaborate on any project related to front end devlopement
-- 📫 How to reach me: discord usrnm - zoffee
+- 👋 Hello I’m @Z0FF1
+- 👀 I’m interested in software management &     development
+- 🌱 I’m currently a btech fresher
+- 😼 Tech stack - C/C++ and Java intermediate
+- 😸 discord usrnm - zoffee
+
+

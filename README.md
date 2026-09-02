@@ -9,8 +9,8 @@ I'm a 2nd year Btech student passionate about Full Stack Developement & AI
 * **Tools:** Git, AWS, Terraform
 
 ### 🔭 Currently working on
-* [ResQ](https://github.com/0SRVSH/emergency-exit-finder) - A live exit finder for buildings under emergency.
-* Improving my skills in **Design and analysis of algorithm**.
+* [MemSync](https://github.com/0SRVSH/MemSync) - small proof of concept key value cache based on POSIX shared memory
+* Improving my skills in **System Design & DSA**.
 
 ### 📫 Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/sarbesh1001)
